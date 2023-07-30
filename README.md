@@ -1,1 +1,1 @@
-# odin-notes
+This project is my own notes following the Odin Project, for memorizing essensial parts of the corriculum and having some place to revisit info.
